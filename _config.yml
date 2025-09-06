@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Kaoru Otsuka"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Okinawa Institute of Science and Technology"
+  bio              : "PhD student at OIST"
   location         : "Okinawa, Japan"
   employer         : "OIST"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Zinnhe4AAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7326-1031"
   semantic         : # URL
@@ -78,6 +78,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  preprints:
+    title: 'Preprints'
   books:
     title: 'Books'
   manuscripts:
@@ -170,6 +172,7 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - examples
   - CHANGELOG
   - Capfile
   - config
