@@ -1,5 +1,5 @@
 ---
-title: "Shepherd - High-Precision Coverage Inference for Response-guided Blackbox Fuzzing"
+title: "Shepherd - High-Precision Coverage Inference for Response-guided Blackbox Fuzzing (Registered Report)"
 collection: publications
 category: conferences
 permalink: /publication/2025-06-25-shepherd-fuzzing
