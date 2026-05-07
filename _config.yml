@@ -155,6 +155,21 @@ analytics:
   google:
     tracking_id          : G-YLZFHH1TS9
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-scholar
+
+scholar:
+  style: ieee
+  locale: en
+  source: _bibliography
+  bibliography: references.bib
+  bibliography_list_tag: ul
+  link-citations: true
+
 
 # Reading Files
 include:
