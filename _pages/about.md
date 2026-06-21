@@ -9,10 +9,9 @@ redirect_from:
 
 <!-- # About me -->
 
-I am Kaoru Otsuka (大塚 馨), a PhD student at Okinawa Institute of Science and Technology (OIST). 
-I am a member of the [Machine Learning and Data Science Unit](https://oist.mlds.jp/) led by [Makoto Yamada](https://www.oist.jp/ja/research/research-units/mlds/makoto-yamada). 
-I am also co-supervised at the [Information Theory, Probability, and Statistics Unit (ITPS)](https://www.oist.jp/ja/research/research-units/itps) led by [Amedeo Roberto Esposito](https://www.amedeorobertoesposito.com/).
-My research interests lie in the intersection of Optimization and Machine Learning.
+My name is Kaoru Otsuka (大塚 馨). I am a PhD student at Okinawa Institute of Science and Technology (OIST). 
+I am fortunate to be supervised by [Makoto Yamada](https://www.oist.jp/ja/research/research-units/mlds/makoto-yamada) and co-supervised by [Amedeo Roberto Esposito](https://www.amedeorobertoesposito.com/).
+My research interests lie in theoretical computer science, machine learning, and partial differential equations.
 
 Contact: kaoru.otsuka[at]oist.jp
 

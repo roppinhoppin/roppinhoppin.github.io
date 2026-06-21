@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Computer Science**, Okinawa Institute of Science and Technology (OIST), 2025-present
-  * Member of Machine Learning and Data Science unit led by Makoto Yamada
+  * Supervised by Makoto Yamada, co-supervised by Amedeo Roberto Esposito.
   
 * **B.S. in Environment and Information Studies**, Keio University, 2021-2025
   * GPA: 3.78/4.00 
@@ -25,6 +25,18 @@ Education
 
 Research Experience
 ======
+* **Rotation Student (3rd Rotation)**, OIST, Jan 2026-Apr 2026
+  * Supervised by Qing Liu 
+  * Conducted research on discrete partial differential equations and viscosity solutions, with an application to distributed learning.
+
+* **Rotation Student (2nd Rotation)**, OIST, Sep 2025-Dec 2025
+  * Supervised by Amedeo Roberto Esposito
+  * Conducted (still ongoing) research on privacy-utility trade-offs in high-dimensional setting.
+
+* **Rotation Student (1st Rotation)**, OIST, May 2025-Aug 2025
+  * Supervised by Makoto Yamada
+  * Ended up publishing a paper on Byzantine-robust federated learning with partial participation (DeMoA) at ICML 2026.
+
 * **Research Intern**, The Institute of Statistical Mathematics, Nov 2023 - Sep 2024
   * Advisor: Hino Hideitsu
   * Conducted research on the intersection of information geometry and machine learning
