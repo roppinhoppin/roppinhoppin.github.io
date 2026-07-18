@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Education
 ======
 * **Ph.D. in Computer Science**, Okinawa Institute of Science and Technology (OIST), 2025-present
@@ -59,12 +65,6 @@ Teaching
   * Tutored malware analysis and Linux kernel exploitation courses
   * Prepared course materials and assisted students
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -73,8 +73,13 @@ Talks
 
 Honors and Awards
 ======
-* **IPA MITOU Project Super Creator** (2019)
-* **JASSO Overseas Student Support System Scholarship** (2022)
+* **2nd Place**, [Gensyn Research Poster Competition at ICML 2026](https://luma.com/PosterPitchICML) — $300 prize
+* **IPA MITOU Project Super Creator** (2019) — ¥2,300,000 in support from METI, Japan
+* **JASSO Overseas Student Support System Scholarship** (2022) — approximately ¥800,000 in total support
+
+Grants
+======
+* [**MEXT AI for Science SPReAD 1000**](https://mext.ent.box.com/s/l5ppajodlcyc0q18vegqt2g6wnazdzc1) (2026): approximately ¥5,000,000
 
 <!-- Work experience
 ======
