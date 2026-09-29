@@ -10,15 +10,14 @@ redirect_from:
 <!-- # About me -->
 
 My name is Kaoru Otsuka (大塚 馨). I am a PhD student at Okinawa Institute of Science and Technology (OIST). 
-I am fortunate to be supervised by [Makoto Yamada](https://www.oist.jp/ja/research/research-units/mlds/makoto-yamada) and co-supervised by [Amedeo Roberto Esposito](https://www.amedeorobertoesposito.com/).
-My research interests lie in theoretical computer science, machine learning, and partial differential equations.
+I am fortunate to be supervised by [Makoto Yamada](https://www.oist.jp/ja/research/research-units/mlds/makoto-yamada).
+My research interests lie in optimiation, machine learning.
 
 Contact: kaoru.otsuka[at]oist.jp
 
 ## Research interests
 - Optimization 
 - Machine learning 
-- Information theory
 - Software security and fuzzing
 
 <!-- ## Education
@@ -26,18 +25,6 @@ Contact: kaoru.otsuka[at]oist.jp
 **Ph.D. in Computer Science** (May 2025 - Present)  
 Okinawa Institute of Science and Technology, Japan  
 Member of Machine Learning and Data Science unit led by Makoto Yamada
-
-**Bachelor in Environment and Information Studies** (April 2021 - March 2025)  
-Keio University, Japan  
-GPA: 3.78/4.00  
-
-**Non-degree Exchange Student in Mathematics** (September 2022 - June 2023)  
-University of California, San Diego, La Jolla, CA  
-GPA: 3.8/4.00  
-Minor in Computer Science  
-- Courses: Abstract algebra, real analysis, topology, algebraic topology, complex analysis, cryptography
-- Participated in [seminar on Lie group and Lie algebra theory](https://mathweb.ucsd.edu/~apal/rg/rtg-sp23.html)
-- Recipient of JASSO Overseas Student Support System Scholarship
 
 ## Research Experience
 
