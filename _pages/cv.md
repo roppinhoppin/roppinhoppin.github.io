@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (English PDF)]({{ base_path }}/files/cv.pdf) · [日本語CV (PDF)]({{ base_path }}/files/cv-ja.pdf)
+
+_Last updated: November 17, 2026._
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -21,6 +25,7 @@ Education
   * Supervised by Makoto Yamada, co-supervised by Amedeo Roberto Esposito.
   
 * **B.S. in Environment and Information Studies**, Keio University, 2021-2025
+  * Participated in the pure mathematics research group led by Atsushi Kanazawa (金沢篤) and the Data Platform Laboratory led by Hideyuki Kawashima.
   * GPA: 3.78/4.00 
   
 * **Non-degree Exchange Student in Mathematics**, University of California, San Diego, 2022-2023
@@ -74,12 +79,13 @@ Talks
 Honors and Awards
 ======
 * **2nd Place**, [Gensyn Research Poster Competition at ICML 2026](https://luma.com/PosterPitchICML) — $300 prize
-* **IPA MITOU Project Super Creator** (2019) — ¥2,300,000 in support from METI, Japan
-* **JASSO Overseas Student Support System Scholarship** (2022) — approximately ¥800,000 in total support
+* **IPA MITOU Super Creator** — 2019 project, certified in 2020
+* **JASSO Student Exchange Support Program Scholarship** (2022) — for the exchange at UC San Diego
 
 Grants
 ======
-* [**MEXT AI for Science SPReAD 1000**](https://mext.ent.box.com/s/l5ppajodlcyc0q18vegqt2g6wnazdzc1) (2026): approximately ¥5,000,000
+* **MEXT AI for Science SPReAD 1000** (2026): planned direct costs ¥4,866,000 and indirect costs ¥1,459,000, totaling ¥6,325,000. These are planned amounts registered in e-Rad; the final grant/contract amount has not yet been registered.
+* [**IPA MITOU Project**](https://www.ipa.go.jp/jinzai/mitou/it/2019/gaiyou_s-1.html) (2019): ¥2,304,000, confirmed final contracted amount.
 
 <!-- Work experience
 ======

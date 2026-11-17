@@ -15,7 +15,9 @@ tldr: >-
   Every client gets a vote in every round, sampled or not, so Byzantine clients stay a minority. ($$\mathcal{P}$$ is hiding a small trick of its own.)
 date: 2026-05-07
 venue: 'ICML 2026'
-paperurl: 'https://arxiv.org/pdf/2509.02970.pdf'
+paperurl: 'https://raw.githubusercontent.com/mlresearch/v306/main/assets/otsuka26a/otsuka26a.pdf'
+authorship: 'First author'
+citation: 'Kaoru Otsuka, Yuki Takezawa, and Makoto Yamada. ICML 2026, PMLR 306:95020–95050.'
 
 ---
 **TL;DR.** Under partial participation, a round can sample mostly Byzantine clients, and then every robust aggregator breaks. Our fix is one line: also aggregate the stale momentum cached from everyone you *didn't* sample.
