@@ -2,6 +2,15 @@
 
 <!-- start custom head snippets -->
 
+<script>
+  if (window.location.hostname === "roppinhoppin.github.io") {
+    const { pathname, search, hash } = window.location;
+    const path = pathname === "/" && !search ? "" : pathname;
+    window.location.replace("https://kaoruots.uk/a" + path + search + hash);
+  }
+</script>
+
+
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
